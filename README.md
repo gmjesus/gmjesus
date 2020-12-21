@@ -10,5 +10,5 @@
 - 📫 How to reach me: jf2garci@uwaterloo.ca
 - 📄 Know about my [experiences](https://jesusgarciamoreno.net/work)
 
-📈 My GitHub Stats
+### 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gmjesus&theme=gotham" alt="gmjesus" /></p>
