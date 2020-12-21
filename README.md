@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey there, I'm Jesus!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/jesus-garciam/">
+  <img align="left" alt="Jesus' LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-<!--
-**gmjesus/gmjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.glitch.me/badge?page_id=gmjesus.gmjesus)
+  
+- 👨🏽‍💻 I’m currently studying Computer Engineering @ University of Waterloo
+- 💬 Ask me about anything, I am happy to help :)
+- 📫 How to reach me: **jf2garci@uwaterloo.ca**
+- 📄 Know about my [experiences](https://jesusgarciamoreno.net/work)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 My GitHub Stats
+  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmjesus&show_icons=true&locale=en&layout=compact&theme=gotham" alt="gmjesus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmjesus&show_icons=true&locale=en&theme=gotham" alt="gmjesus" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmjesus&theme=gotham" alt="gmjesus" /></p>
