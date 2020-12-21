@@ -1,4 +1,4 @@
-### Hey there, I'm Jesus!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there, I'm Jesus! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/jesus-garciam/">
   <img align="left" alt="Jesus' LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -13,5 +13,5 @@
 📈 My GitHub Stats
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmjesus&show_icons=true&locale=en&layout=compact&theme=gotham" alt="gmjesus" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gmjesus&show_icons=true&locale=en&theme=gotham" alt="gmjesus" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gmjesus&show_icons=true&locale=en&theme=gotham" alt="gmjesus" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmjesus&theme=gotham" alt="gmjesus" /></p>
