@@ -13,5 +13,4 @@
 📈 My GitHub Stats
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmjesus&show_icons=true&locale=en&layout=compact&theme=gotham" alt="gmjesus" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gmjesus&show_icons=true&locale=en&theme=gotham" alt="gmjesus" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gmjesus&theme=gotham" alt="gmjesus" /></p>
