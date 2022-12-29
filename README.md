@@ -8,7 +8,6 @@
 - 👨🏽‍💻 I’m currently studying Computer Engineering @ University of Waterloo
 - 💬 Ask me about anything, I am happy to help :)
 - 📫 How to reach me: jf2garci@uwaterloo.ca
-- 📄 Know about my [experiences](https://jesusgarciamoreno.net/work)
 
 ### 📈 GitHub Stats
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gmjesus&theme=gotham" alt="gmjesus" /></p>
