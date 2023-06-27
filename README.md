@@ -2,10 +2,8 @@
 <a href="https://www.linkedin.com/in/jesus-garciam/">
   <img align="left" alt="Jesus' LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=gmjesus.gmjesus)
   
-- 👨🏽‍💻 I’m currently studying Computer Engineering @ University of Waterloo
+- 👨🏽‍💻 I graduated from Computer Engineering @ University of Waterloo
 - 💬 Ask me about anything, I am happy to help :)
 - 📫 How to reach me: jf2garci@uwaterloo.ca
 
